@@ -2,7 +2,7 @@
   "name": "forum",
   "private": true,
   "scripts": {
-    "start": "meteor start"
+    "start": "meteor"
   },
   "dependencies": {
     "meteor-node-stubs": "~0.2.0",
